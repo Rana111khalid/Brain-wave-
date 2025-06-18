@@ -28,7 +28,7 @@ Brain Wave
 - Form partnerships with schools and psychological clinics to embed **Brain Wave** in daily child routines. 🏫
 - Create custom analytical reports for parents using visual dashboards and behavioral insights. 📊
 
-## Benit : 
+## Benfit : 
 ### For Children: 👶
 - Encourages self-awareness and emotional regulation through breathing. 🌬️
 - Reduces anxiety and promotes mental calmness. 🧘‍♂️
