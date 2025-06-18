@@ -12,7 +12,14 @@ Brain Wave
 
 ## Idea Overview: 💡
 **Brain Wave** is an interactive mobile application that uses artificial intelligence to analyze children’s breathing patterns and detect early signs of stress or depression. Children play games that involve breathing—such as blowing a balloon or moving a cloud—while the app quietly analyzes their breath. If the system detects irregular or stressed breathing, it sends gentle alerts to the parents, enabling early and compassionate intervention without making the child feel observed.
+## Team Roles:
 
+| **Name**  | **Role**                                                           |
+|-----------|--------------------------------------------------------------------|
+| **Rana**  | Skilled researcher and presenter, responsible for conducting scientific research and delivering impactful presentations. |
+| **Moroj** | In-depth researcher, focused on data collection and analysis to ensure information accuracy. |
+| **Ola**   | MVP design expert, specializing in building intuitive prototypes and enhancing user experience. |
+| **Amal**  | MVP development specialist, contributing to building and refining initial product solutions. |
 ## Future Plans: 🔮
 - Develop more advanced emotional tracking tools that monitor mood and behavioral patterns. 📈
 - Launch multilingual versions to reach a global audience. 🌏
@@ -20,14 +27,7 @@ Brain Wave
 - Form partnerships with schools and psychological clinics to embed **Brain Wave** in daily child routines. 🏫
 - Create custom analytical reports for parents using visual dashboards and behavioral insights. 📊
 
-## Team Roles: 👥
-- **Rana**: A skilled researcher and presenter, responsible for conducting scientific research and delivering impactful presentations. 📚🎤
-- **Moroj**: An in-depth researcher, focused on data collection and analysis to ensure information accuracy. 📊🔍
-- **Ola**: MVP design expert, specializing in building intuitive prototypes and enhancing user experience. 🎨🖥️
-- **Amal**: MVP development specialist, contributing to building and refining initial product solutions. 💻⚙️
-
-## Benefits: 🏅
-
+## Benit : 
 ### For Children: 👶
 - Encourages self-awareness and emotional regulation through breathing. 🌬️
 - Reduces anxiety and promotes mental calmness. 🧘‍♂️
