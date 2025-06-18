@@ -67,4 +67,6 @@ Brain Wave
 - Child-friendly interface with animations and visual rewards. 🎨🏆
 - Smooth integration between play and mental health support. 🤝
 - Scalable framework ready for future development and global expansion. 🌍
-
+## Conceptual Map:
+![Concept Map](## Conceptual Map:
+![Concept Map](https://github.com/YourUsername/YourRepo/blob/main/your_image.png)
