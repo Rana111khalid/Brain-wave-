@@ -20,6 +20,7 @@ Brain Wave
 | **Moroj** | In-depth researcher, focused on data collection and analysis to ensure information accuracy. |
 | **Ola**   | MVP design expert, specializing in building intuitive prototypes and enhancing user experience. |
 | **Amal**  | MVP development specialist, contributing to building and refining initial product solutions. |
+
 ## Future Plans: 🔮
 - Develop more advanced emotional tracking tools that monitor mood and behavioral patterns. 📈
 - Launch multilingual versions to reach a global audience. 🌏
