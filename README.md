@@ -22,3 +22,13 @@ Children play games that encourage deep breathing while the app silently analyze
 - Add multilingual support to reach a global audience.
 - Integrate with wearable devices like wristbands or headphones.
 - Partner with schools and mental hea
+
+## Team Roles
+
+> **Rana**: A skilled researcher and presenter, responsible for conducting scientific research and delivering impactful presentations.
+>
+> **Moroj**: An in-depth researcher, focused on data collection and analysis to ensure information accuracy.
+>
+> **Ola**: MVP design expert, specializing in building intuitive prototypes and enhancing user experience.
+>
+> **Amal**: MVP development speciali
