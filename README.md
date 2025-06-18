@@ -69,4 +69,5 @@ Brain Wave
 - Scalable framework ready for future development and global expansion. 🌍
 ## Conceptual Map:
 ![Concept Map](## Conceptual Map:
-![Concept Map](https://github.com/YourUsername/YourRepo/blob/main/your_image.png)
+![Concept Map](![image](https://github.com/user-attachments/assets/fb2223e7-625d-4815-af15-a76b14a40f34)
+
