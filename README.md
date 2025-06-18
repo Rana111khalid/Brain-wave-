@@ -37,7 +37,16 @@ Brain Wave
 - Provides early alerts for potential emotional or mental health concerns. 🚨
 - Enables proactive parenting without invading the child’s comfort. 🛋️
 - Simplifies communication about emotional well-being. 💬
+## Key Features:
 
+| **Feature**                         | **Description**                                                       |
+|-------------------------------------|-----------------------------------------------------------------------|
+| **Gamified Breathing Exercises**    | Fun and relaxing breathing games designed for children.               |
+| **Privacy Protection**              | No data is recorded or transmitted externally, ensuring full privacy. |
+| **Insightful Reports**              | Custom reports and dashboards tailored for parents.                   |
+| **Child-Friendly Interface**        | Intuitive UI with animations and visual rewards for children.         |
+| **Smooth Integration**              | Integration between play and mental health support.                   |
+| **Scalable Framework**              | Ready for future development and global expansion.                    |
 ## Target Audience: 🎯
 - Children aged 4 to 12 years old. 👧👦
 - Parents and guardians concerned with mental health and child development. 🧑‍👩‍👧‍👦
